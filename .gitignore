@@ -1,4 +1,5 @@
 *.l#*
+*.lck
 
 # OS generated files #
 ######################
